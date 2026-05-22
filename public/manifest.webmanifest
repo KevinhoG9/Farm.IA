@@ -1,0 +1,12 @@
+{
+  "name": "BioGen Sertão",
+  "short_name": "BioGen",
+  "description": "Gestão genética, currais e inseminação artificial para bovinos, ovinos e caprinos no semiárido.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#f6f1e7",
+  "theme_color": "#1f4d2f",
+  "orientation": "portrait-primary",
+  "icons": []
+}
